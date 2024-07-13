@@ -1,10 +1,6 @@
 <h1 align="center">Hlo 🙏, I'm ADYA PRASAD</h1>
 <h3 align="center"><i>Specialising in AI and Cybersecurity for Better Future</i></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adya-prasad&label=Profile%20views&color=0e75b6&style=flat" alt="adya-prasad" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adya-prasad" alt="adya-prasad" /></a> </p>
-
 - ✍️ Write Blogs and Technical Documentation [Indiecore, Indiecreation](https://indiecore.in/)
 
 - 📚 Learning CS, AI, and Cybersecurity **Harvard CS50, Open Learning**
@@ -45,3 +41,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adya-prasad&show_icons=true&locale=en" alt="adya-prasad" /></p>
 
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adya-prasad" alt="adya-prasad" /></a> </p>
