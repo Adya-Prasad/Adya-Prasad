@@ -11,7 +11,7 @@
 
 - 📚 Learning CS, AI, and Cybersecurity **Harvard CS50, Open Learning**
 
-- 📝 I regularly write articles on [Learning Guide, AI, Cloud & DevOps](Learning Guide, AI, Cloud & DevOps)
+- 📝 I regularly write articles on Learning Guide, AI, Cloud & DevOps
 
 - 💬 Ask me about **Computer Concepts, SEO, Business Brainstorming**
 
