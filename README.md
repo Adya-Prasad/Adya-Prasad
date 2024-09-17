@@ -7,6 +7,11 @@
 
 </div>
 
+`languages:` HTML, CSS, Javascript, Python, C
+`Markup Languages:` HTML, JSON, YAML, Markdown
+`Platforms:` Docker, Kubernetes, Ansible, MongoDB, Canva
+`Tools:` VS Code, Jupyter Notebook, Git, Github, 
+
 - ✍️ Write Blogs and Technical Documentation [Indiecore, Indiecreation](https://indiecore.in/)
 
 - 📚 Learning CS, AI, and Cybersecurity **Harvard CS50, Open Learning**
