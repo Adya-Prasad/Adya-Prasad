@@ -7,10 +7,10 @@
 
 </div>
 
-<p>`languages:` HTML, CSS, Javascript, Python, C </p>
-<p>`Markup Languages:` HTML, JSON, YAML, Markdown </p>
-<p>`Platforms:` Linux, Docker, Kubernetes, Ansible, MongoDB, Canva </p>
-<p>`Tools:` VS Code, Jupyter Notebook, Git, Github </p>
+`languages:` HTML, CSS, Javascript, Python, C </br>
+`Markup Languages:` HTML, JSON, YAML, Markdown 
+`Platforms:` Linux, Docker, Kubernetes, Ansible, MongoDB, Canva
+`Tools:` VS Code, Jupyter Notebook, Git, Github 
 
 - ✍️ Write Blogs and Technical Documentation [Indiecore, Indiecreation](https://indiecore.in/)
 
