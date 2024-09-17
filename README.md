@@ -8,9 +8,9 @@
 </div>
 
 `languages:` HTML, CSS, Javascript, Python, C </br>
-`Markup Languages:` HTML, JSON, YAML, Markdown 
-`Platforms:` Linux, Docker, Kubernetes, Ansible, MongoDB, Canva
-`Tools:` VS Code, Jupyter Notebook, Git, Github 
+`Markup Languages:` HTML, JSON, YAML, Markdown </br>
+`Platforms:` Linux, Docker, Kubernetes, Ansible, MongoDB, Canva </br>
+`Tools:` VS Code, Jupyter Notebook, Git, Github </br>
 
 - ✍️ Write Blogs and Technical Documentation [Indiecore, Indiecreation](https://indiecore.in/)
 
