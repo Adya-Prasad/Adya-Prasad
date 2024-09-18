@@ -8,9 +8,18 @@
 </div>
 
 `languages:` HTML, CSS, Javascript, Python, C </br>
-`Markup Languages:` HTML, JSON, YAML, Markdown </br>
-`Platforms:` Linux, Docker, Kubernetes, Ansible, MongoDB, Canva </br>
+
+`Markup Languages:` HTML, JSON, YAML, Markdown, Dockerfile </br>
+
+`Frameworks:` Flask </br>
+
+`Platforms:` Linux, WordPress, Google Cloud, Digital Ocean, Docker, Kubernetes, Ansible, MongoDB, Canva, MS Office,  </br>
+
 `Tools:` VS Code, Jupyter Notebook, Git, Github </br>
+
+`Specialized skills:` AI, ML, DevOps, Cybersecurity </br>
+
+`Interests:` Business, Start Idea, Saas Product, and Data Analysis </br>
 
 - ✍️ Write Blogs and Technical Documentation [Indiecore, Indiecreation](https://indiecore.in/)
 
