@@ -2,7 +2,7 @@
 <h3 align="center"><i>Specialising in AI and Cybersecurity for Better Future</i></h3>
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=3000&pause=500&color=FDFEFE&background=2A2E3425&center=true&vCenter=true&&lines=Artificial+Intelligance;Cybersecurity;Wordpress+developer;Technical+Writer;Student+@Hardvard+CS50;Open-Source+Contributor;Cloud+DevOps;Interest+:+Business+Operation;Data+💖&+Analysis;Designer+by+hobby)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=3000&pause=500&color=FDFEFE&background=2A2E3425&center=true&vCenter=true&&lines=Artificial+Intelligance;Cybersecurity;Wordpress+developer;Technical+Writer;Student+@Hardvard+CS50;Open-Source+Contributor;Cloud+DevOps;Interest+:+Business+Operation;💖+Data+&+Analysis;Designer+by+hobby)](https://git.io/typing-svg)
 
 
 </div>
