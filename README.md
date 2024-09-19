@@ -9,7 +9,7 @@
 
 `languages:` HTML, CSS, Javascript, Python, C </br>
 
-`Markup Languages:` HTML, JSON, YAML, Markdown, Dockerfile </br>
+`Markup & Scripting:` Bash, HTML, JSON, YAML, Markdown, Dockerfile, Groovy, Powershell </br>
 
 `Frameworks:` Flask </br>
 
