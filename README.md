@@ -17,9 +17,9 @@
 
 `Tools:` VS Code, Jupyter Notebook, Git, Github </br>
 
-`Specialized skills:` AI, ML, DevOps, Cybersecurity </br>
+`Specialization:` AI-ML, DevOps, Cybersecurity </br>
 
-`Interests:` Business, Start Idea, Saas Product, and Data Analysis </br>
+`Interests:` Business, Startup Idea, Saas Product, and Data Analysis </br>
 
 - ✍️ Write Blogs and Technical Documentation [Indiecore, Indiecreation](https://indiecore.in/)
 
