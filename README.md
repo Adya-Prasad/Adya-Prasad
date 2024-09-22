@@ -11,11 +11,11 @@
 
 `Markup & Scripting:` Bash, HTML, JSON, YAML, Markdown, Dockerfile, Groovy, Powershell </br>
 
-`Frameworks:` Flask </br>
+`Frameworks and Libraries:` Flask, Tensorflow, Keras, Scikit Learn, Pandas, Numpy, Matplotlip, mitdeeplearning, Scipy </br>
 
 `Platforms:` Linux, WordPress, Google Cloud, Digital Ocean, Docker, Kubernetes, Ansible, MongoDB, Canva, MS Office,  </br>
 
-`Tools:` VS Code, Jupyter Notebook, Git, Github </br>
+`Tools:` VS Code, Jupyter Notebook, Git, Github, Google Colab </br>
 
 `Specialization:` AI-ML, DevOps, Cybersecurity </br>
 
