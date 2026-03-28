@@ -1,11 +1,16 @@
 <h1 align="center">Hlo 💪, I'm ADYA PRASAD</h1>
-<h3 align="center"><i>Reinforcement learning • Multi-Agent Orchestration • Model Adaptation </h3>
+<h3 align="center"><i>Reinforcement learning • Multi-Agent Orchestration • Model Adaptation</i> </h3>
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=3000&pause=500&color=FDFEFE&background=2A2E3425&center=true&vCenter=true&&lines=Machine+Learning;Deep+Learning;Reinforcement+Learning;Technical+Writing;Student+@Hardvard+CS50;Open-Source+Contributor;Cloud+DevOps;Interest:+Business+Operation;💖+Data+Analysis;)](https://git.io/typing-svg)
 
-
 </div>
+
+I started with Python backend development and have since narrowed my focus to research in reinforcement learning, multi-agent orchestration, and model adaptation , not because these are the trending areas, but because they sit closest to the questions I genuinely love to deep dive.<br>
+On the applied side, I'm building ML and DL tools and apps for the Indian market and Indian hustlers, as this resonates with me a lot. I am currently seeking a research affiliation or internship to contribute and learn more: RL and multimodal ai architectures. Willing to do the hard and adaptable work required for real research.
+
+
+A soul, interested in the intersection of backend dev, ML research, data story telling, and entrepreneurship
 
 `LANGUAGES:` Python, TypeScript Javascript, R, HTML, CSS </br>
 
