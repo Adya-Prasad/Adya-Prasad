@@ -25,7 +25,7 @@ A soul, interested in the intersection of backend dev, ML research, data story t
 `Interests:` Local market research, Startup Idea, Saas Product, and Data Analysis </br>
 
 ```json
-researcher = {
+"researcher" = {
     "name"        : "Adya Prasad",
     "affiliation" : "Independent Researcher · India",
     "focus"       : [
