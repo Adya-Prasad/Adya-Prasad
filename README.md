@@ -35,7 +35,7 @@ researcher = {
         "Retrieval-Augmented Generation",
     ],
     "current"     : "LLM fine-tuning pipelines & VLM inference",
-    "open_to"     : ["Research Collaborations", "AI Engineering Internships" Data Scientist Internship,
+    "open_to"     : ["Research Collaborations", "AI Engineering Internships" "Data Scientist Internship",
                      "PhD Opportunities", "Open Source"],
 }
 ```
